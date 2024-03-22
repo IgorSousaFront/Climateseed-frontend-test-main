@@ -1,0 +1,19 @@
+ {
+  "root": true,
+  "parser": "vue-eslint-parser",
+  "parserOptions": {
+    "parser": "@typescript-eslint/parser"
+  },
+  "extends": [
+    "plugin:vue/vue3-strongly-recommended",
+    "eslint:recommended",
+    "@vue/typescript/recommended",
+    "prettier",
+    "./.eslintrc-auto-import.json"
+  ],
+  "plugins": ["@typescript-eslint", "prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "vue/no-v-for-template-key-on-child": "error"
+  }
+}

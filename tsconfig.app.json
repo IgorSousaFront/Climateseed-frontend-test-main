@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "strictBindCallApply": true,
+    "noImplicitThis": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx":"preserve",
+    "noUnusedLocals": true,
+    "baseUrl": ".",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "types": ["vitest/globals"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
