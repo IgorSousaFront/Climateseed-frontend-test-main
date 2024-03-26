@@ -1,8 +1,10 @@
 # climateseed-frontend-test
 
 Vue JS assignment for 2-3 hours.
+
 **Preview ✅**
-![alt text](http://url/to/img.png](https://raw.githubusercontent.com/IgorSousaFront/Climateseed-frontend-test-main/main/preview.png))
+
+![alt text](https://raw.githubusercontent.com/IgorSousaFront/Climateseed-frontend-test-main/main/preview.png)
 
 **Config ✅**
 
