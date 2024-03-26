@@ -21,13 +21,13 @@ Change the port to localhost 3000
 -> Add a small form for the ***result*** object with the following inputs: selects of **a** category and **an** organisation displaying the name of the object but the value should be its **id** + an input of type number for kco2e. On submit the newly added ***result*** must be provided to the graphs
 ```
 
-**Creativity** 
+**Creativity ✅** 
 ```sh
 -> Add a graph of your choice with existing data (we have created a graph based on organisation and kco2e but perhaps there are other graphs available) ✅
 -> Add some basic styling: the graphs could be in cards with a title related to the output of the graph (Bootstrap, Tailwind or whatever you feel good) ✅
 ```
 
-**Optional**
+**Optional ✅**
 ```sh
 -> Add some unit tests
 -> Add some Typescript interfaces ✅
